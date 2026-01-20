@@ -30,10 +30,7 @@ The project consists of **one playable level**, designed as a focused demo rathe
 
 ## How to Run
 
-1. Install **Unity Hub** and the required Unity version  
-2. Clone or download this repository  
-3. Open the project in **Unity**  
-4. Press **Play** in the editor or build the project to run  
+- File to large to put on GitHub
 
 ---
 
